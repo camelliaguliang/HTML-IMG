@@ -15,7 +15,7 @@
              $image.attr('id','XXX');
              $image.attr('src',dataUrl);
          });
-      ----
+     ----
  + 方案三：html2canvas    将HTML-canvas-url
     ----
          var node = document.getElementById('#print');
